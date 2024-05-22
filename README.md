@@ -1,6 +1,6 @@
-Sure, here is all the text in one go for easy copying:
 
-```
+
+
 # Random Password Generator
 
 Welcome to the Random Password Generator! This application helps you generate strong, random passwords to enhance your online security. Built with Python, the app provides an easy-to-use interface to create passwords with customizable length and character options.
@@ -81,4 +81,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any inquiries or feedback, please contact me at 2005akjha@gmail.com.
-```
+
